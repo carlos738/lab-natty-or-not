@@ -7,3 +7,13 @@
 CONTEÚDO DO VÍDEO 
 
 Uma pequena explicação sobre o papel das IAS no mundo.
+
+## endereço =
+- "https://www.veed.io/edit/c56f3318-d5cb-4a69-8856-78ce747a2936/video"
+
+Pequena introdução aos sistemas operacionais
+
+# endereço:
+- "https://www.veed.io/edit/2f0df8aa-4ddf-47c6-9260-c045ba696a55/text-to-video"
+
+UMA BREVE EXPLANAÇÃO SOBRE LINGUAGENS DE PROGRAMAÇÃO.
